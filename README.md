@@ -1,1 +1,2 @@
-# 我的个人技术文档
+# 个人博客(95_小生苏俊明)
+- [blog](https://github.com/SuJunming/blog/issues)
