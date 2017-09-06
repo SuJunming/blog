@@ -14,8 +14,9 @@
 
 - 即使对于一些经验丰富的开发者来说，诸多的前端工具还是会让他们感到头痛，例如我。解决这个问题的最好办法，就是在概念上理解他们的工作方式，已经他们之间相互配合的方式:
 
--[我终于弄懂了各种前端build工具](https://sdk.cn/news/5412?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [我终于弄懂了各种前端build工具](https://sdk.cn/news/5412?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+### 结尾
 该个人博客会不定时更新，后续时间会添加更多的文档
 
 若有问题，可加QQ群221859379与我交流
