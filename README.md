@@ -35,6 +35,16 @@
 - [transform-decorators-legacy](https://www.npmjs.com/package/babel-plugin-transform-decorators-legacy)(<span style="color: rgb(243,121,52);">@ES7装饰符 很强大👍</span>)
 - [nprogress](https://github.com/rstacruz/nprogress)(<span style="color: rgb(243,121,52);">简小的顶部加载条 很强大👍</span>)
 
+##### 前端交流社区
+
+- [segmentfault](https://segmentfault.com/)(<span style="color: rgb(243,121,52);">segmentfault交流社区,正在逐渐壮大中👍</span>)
+
+- [stackoverflow](https://stackoverflow.com/)(<span style="color: rgb(243,121,52);">国外比较强大的交流社区👍</span>)
+
+- [react中文论坛](http://react-china.org/)(<span style="color: rgb(243,121,52);">国内的react交流社区👍</span>)
+
+##### 面试题
+- [前端面试题](https://segmentfault.com/a/1190000008644536)
 
 ### 结尾
 
