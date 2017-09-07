@@ -15,6 +15,8 @@
 
 - [ES6文档](http://es6.ruanyifeng.com/#docs/intro)👍
 
+- [javascript实用技巧和写法建议](https://segmentfault.com/a/1190000011031658)
+
 ##### React+
 
 - [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
@@ -28,6 +30,8 @@
 - [我终于弄懂了各种前端build工具](https://sdk.cn/news/5412?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)👍
 
 - [入门webpack](http://www.jianshu.com/p/42e11515c10f)👍
+
+- [webpack多页应用架构](https://segmentfault.com/a/1190000006843916)
 
 ##### 各种模块插件
 - [antd](https://ant.design/index-cn)(<span style="color: rgb(243,121,52);">蚂蚁金服开源react ui组件框架👍</span>)
