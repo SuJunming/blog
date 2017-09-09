@@ -48,7 +48,11 @@
 - [react中文论坛](http://react-china.org/)(<span style="color: rgb(243,121,52);">国内的react交流社区👍</span>)
 
 ##### 面试题
-- [前端面试题](https://segmentfault.com/a/1190000008644536)
+- [前端面试题](https://segmentfault.com/a/1190000008644536)👍
+
+##### 代码编辑器
+
+- [vscode插件推荐](https://segmentfault.com/a/1190000006697219)👍
 
 ### 结尾
 
