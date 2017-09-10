@@ -16,12 +16,15 @@
 - [ES6文档](http://es6.ruanyifeng.com/#docs/intro)👍
 
 - [javascript实用技巧和写法建议](https://segmentfault.com/a/1190000011031658)
+- [浅谈axios](http://www.jianshu.com/p/065294e2711c)👍
 
 ##### React+
 
 - [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
 
 - [redux中文文档](http://cn.redux.js.org/index.html)👍
+
+- [一个收集 React 组件的网站（React component）](https://react.parts/native)👍
 
 ##### 构建工具
 
@@ -35,9 +38,14 @@
 
 ##### 各种模块插件
 - [antd](https://ant.design/index-cn)(<span style="color: rgb(243,121,52);">蚂蚁金服开源react ui组件框架👍</span>)
+
 - [axios](https://github.com/mzabriskie/axios)(<span style="color: rgb(243,121,52);">http请求模块，可用于前端任何场景，很强大👍</span>)
-- [transform-decorators-legacy](https://www.npmjs.com/package/babel-plugin-transform-decorators-legacy)(<span style="color: rgb(243,121,52);">@ES7装饰符 很强大👍</span>)
+
+- [transform-decorators-legacy](https://www.npmjs.com/package/babel-plugin-transform-decorators-legacy)(<span style="color: rgb(243,121,52);">@ES7装饰符 很强大👍</span>) 
+
 - [nprogress](https://github.com/rstacruz/nprogress)(<span style="color: rgb(243,121,52);">简小的顶部加载条 很强大👍</span>)
+
+- [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)👍
 
 ##### 前端交流社区
 
