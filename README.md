@@ -37,7 +37,7 @@
 
 - [入门webpack](http://www.jianshu.com/p/42e11515c10f)👍
 
-- [webpack多页应用架构](https://segmentfault.com/a/1190000006843916)
+- [webpack多页应用架构](https://segmentfault.com/a/1190000006843916)👍
 
 ##### 各种模块插件
 - [antd](https://ant.design/index-cn)(<span style="color: rgb(243,121,52);">蚂蚁金服开源react ui组件框架👍</span>)
@@ -58,7 +58,7 @@
 
 - [react中文论坛](http://react-china.org/)(<span style="color: rgb(243,121,52);">国内的react交流社区👍</span>)
 
-- [掘金](https://juejin.im)
+- [掘金](https://juejin.im)👍
 
 ##### 面试题
 - [前端面试题](https://segmentfault.com/a/1190000008644536)👍
