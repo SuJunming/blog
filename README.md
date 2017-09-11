@@ -16,7 +16,10 @@
 - [ES6文档](http://es6.ruanyifeng.com/#docs/intro)👍
 
 - [javascript实用技巧和写法建议](https://segmentfault.com/a/1190000011031658)
+
 - [浅谈axios](http://www.jianshu.com/p/065294e2711c)👍
+
+- [javascript算法](http://www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html?t=new)
 
 ##### React+
 
@@ -54,6 +57,8 @@
 - [stackoverflow](https://stackoverflow.com/)(<span style="color: rgb(243,121,52);">国外比较强大的交流社区👍</span>)
 
 - [react中文论坛](http://react-china.org/)(<span style="color: rgb(243,121,52);">国内的react交流社区👍</span>)
+
+- [掘金](https://juejin.im)
 
 ##### 面试题
 - [前端面试题](https://segmentfault.com/a/1190000008644536)👍
