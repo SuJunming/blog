@@ -15,11 +15,11 @@
 
 - [ES6文档](http://es6.ruanyifeng.com/#docs/intro)👍
 
-- [javascript实用技巧和写法建议](https://segmentfault.com/a/1190000011031658)
+- [javascript实用技巧和写法建议](https://segmentfault.com/a/1190000011031658)👍
 
 - [浅谈axios](http://www.jianshu.com/p/065294e2711c)👍
 
-- [javascript算法](http://www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html?t=new)
+- [javascript算法](http://www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html?t=new)👍
 
 ##### React+
 
