@@ -21,6 +21,8 @@
 
 - [javascript算法](http://www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html?t=new)👍
 
+- [十分推荐的javascript的this规则](https://llp0574.github.io/2017/09/07/the-simple-rules-to-this-in-javascript/)👍
+
 ##### React+
 
 - [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
