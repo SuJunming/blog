@@ -65,6 +65,8 @@
 ##### 面试题
 - [前端面试题](https://segmentfault.com/a/1190000008644536)👍
 
+- [react常见面试题and分析](https://zhuanlan.zhihu.com/p/24856035)👍
+
 ##### 代码编辑器
 
 - [vscode插件推荐](https://segmentfault.com/a/1190000006697219)👍
