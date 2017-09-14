@@ -89,7 +89,7 @@ React还在持续的更新开发中，截至目前React的最新版是0.14.3版�
 
 # Chapter  2 --  基础篇
 
-> 特别提示：本文的代码示例详见[GuoYongfeng/react-demo](https://github.com/GuoYongfeng/react-demo)
+> 特别提示：本文的代码示例详见[sujunming/react-demo](https://github.com/sujunming/react-demo)
 
 越是基础的东西，越是重要；越是原理的内容，越要去理清楚。
 
@@ -597,7 +597,7 @@ var ProfileLink = React.createClass({
 // 渲染到容器
 ReactDOM.render(
   <Avatar
-    name="GuoYongfeng"
+    name="sujunming"
     link="https://avatars2.githubusercontent.com/u/8686869?v=3&s=460"
   />,
   document.getElementById('example')

@@ -584,7 +584,7 @@ Buffer对象Node原生提供的全局对象，用来处理二进制数据的一�
 创建buffer有三种办法：
 - `new Buffer(size)`指定长度，然后fill填充内容
 - `new Buffer(['sss', 'xxx'])`传入一个数组
-- `new Buffer('郭永峰')`传入一个字符串
+- `new Buffer('苏俊明')`传入一个字符串
 
 ### 几个重要的模块内部的局部变量
 

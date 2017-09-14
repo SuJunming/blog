@@ -1,12 +1,12 @@
 # About ME
 
-<img title="郭永峰" src="/img/me.jpg" style="width: 250px;">
+<img title="苏俊明" src="/img/me.jpg" style="width: 250px;">
 
 ## INTRODUCTION
 
-- **Name: **[GuoYongfeng](https://github.com/GuoYongfeng)
-- **Mail: **<a href="mailTo:296512521@qq.com">296512521@qq.com</a>
-- **Weixin: **13552329235
+- **Name: **[sujunming](https://github.com/sujunming)
+- **Mail: **<a href="mailTo:827606400@qq.com">827606400@qq.com</a>
+- **Weixin: **13991241334
 
 
 ## TECHNOLOGY
