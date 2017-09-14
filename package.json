@@ -1,16 +1,14 @@
 {
-    "name": "MyTechBook",
-    "version": "0.3.1",
-    "description": "Welcome To GuoYongfeng's Blog",
+    "name": "MyBlog",
+    "version": "0.0.1",
+    "description": "Welcome To sujunming's Blog",
     "keywords": [
         "idoc",
-        "guoyongfeng"
+        "sujunming"
     ],
-    "homepage": "http://guoyongfeng.github.io/idoc/",
-    "author": "GuoYongfeng <guoyff@yonyou.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GuoYongfeng"
+        "url": "https://github.com/sujunming"
     },
     "licenses": "MIT",
     "scripts": {
