@@ -52,6 +52,10 @@
 
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)👍
 
+##### 浏览器
+
+- [chorme 61的新玩意](https://qianduan.group/posts/59b53574dc7d5751e63981d4)👍
+
 ##### 前端交流社区
 
 - [segmentfault](https://segmentfault.com/)(<span style="color: rgb(243,121,52);">segmentfault交流社区,正在逐渐壮大中👍</span>)
