@@ -22,7 +22,8 @@
 - [javascript算法](http://www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html?t=new)👍
 
 - [十分推荐的javascript的this规则](https://llp0574.github.io/2017/09/07/the-simple-rules-to-this-in-javascript/)👍
-- [给程序员看的Javascript攻略－ 异步](https://juejin.im/post/59bbc8dcf265da064f1ff830)
+
+- [给程序员看的Javascript攻略－ 异步](https://juejin.im/post/59bbc8dcf265da064f1ff830)👍
 
 ##### React+
 
@@ -52,6 +53,8 @@
 - [nprogress](https://github.com/rstacruz/nprogress)(<span style="color: rgb(243,121,52);">简小的顶部加载条 很强大👍</span>)
 
 - [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)👍
+
+- [67 个前端开发者的工具、库和资源](http://www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html?t=new)👍
 
 ##### 浏览器
 
