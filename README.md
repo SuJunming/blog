@@ -22,6 +22,7 @@
 - [javascript算法](http://www.zcfy.cc/article/basic-javascript-algorithms-toolbox-starter-kit-hacker-noon-4150.html?t=new)👍
 
 - [十分推荐的javascript的this规则](https://llp0574.github.io/2017/09/07/the-simple-rules-to-this-in-javascript/)👍
+- [给程序员看的Javascript攻略－ 异步](https://juejin.im/post/59bbc8dcf265da064f1ff830)
 
 ##### React+
 
