@@ -25,6 +25,8 @@
 
 - [给程序员看的Javascript攻略－ 异步](https://juejin.im/post/59bbc8dcf265da064f1ff830)👍
 
+- [typescript中文教程-文档](https://ts.xcatliu.com/introduction/)👍
+
 ##### React+
 
 - [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
