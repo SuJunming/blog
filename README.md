@@ -33,6 +33,8 @@
 
 - [redux中文文档](http://cn.redux.js.org/index.html)👍
 
+- [深入react高阶组件](https://zhuanlan.zhihu.com/p/24776678?group_id=802649040843051008)👍
+
 - [一个收集 React 组件的网站（React component）](https://react.parts/native)👍
 
 - [一篇包含了react所有基本点的文章](https://segmentfault.com/a/1190000011205580)👍
