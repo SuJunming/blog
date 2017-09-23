@@ -87,6 +87,12 @@
 
 - [vscode插件推荐](https://segmentfault.com/a/1190000006697219)👍
 
+###### 开源协议(因为最近facebook闹腾，所以必须了解下咯)
+
+- [如何选择开源协议?](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)👍
+
+- [开源协议的差异区别?](https://www.zhihu.com/question/19568896)👍
+
 ##### 其他提高
 
 - [提升自己的见光度(如何更帅)](https://mp.weixin.qq.com/s/kgNQv7L9aoZd6r0U0oVjTQ)哈哈👍
