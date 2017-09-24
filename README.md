@@ -1,7 +1,7 @@
 # 个人博客(95小生_苏俊明)
 ### 博客地址
 
-- [Blog](https://github.com/SuJunming/blog/issues)(<span style="color: rgb(243,121,52);">记得star哦👍</span>)
+- [Blog](https://github.com/SuJunming/blog/issues)(<span style="color: rgb(243,121,52);">小伙伴，记得star哦👍</span>)
 
 ### 分享贴
 
@@ -29,8 +29,6 @@
 
 ##### React+
 
-- [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
-
 - [redux中文文档](http://cn.redux.js.org/index.html)👍
 
 - [深入react高阶组件](https://zhuanlan.zhihu.com/p/24776678?group_id=802649040843051008)👍
@@ -38,6 +36,16 @@
 - [一个收集 React 组件的网站（React component）](https://react.parts/native)👍
 
 - [一篇包含了react所有基本点的文章](https://segmentfault.com/a/1190000011205580)👍
+
+- [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
+
+##### vue+
+
+- [vue官方](https://cn.vuejs.org/)👍
+
+##### angular+
+
+- [angular官方](https://angular.cn/)👍
 
 ##### 构建工具
 
