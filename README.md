@@ -57,6 +57,8 @@
 
 - [webpack多页应用架构](https://segmentfault.com/a/1190000006843916)👍
 
+- [webpack优化指南](http://mp.weixin.qq.com/s?__biz=MzA4NjE3MDg4OQ==&mid=2650965325&idx=1&sn=3588d4dfa8b2fffaabd76b4b05deba6d&chksm=843ae92bb34d603df76b13518d03541fadf20705d24cece9bd800af3e375b02fe066a67ebee1&mpshare=1&scene=1&srcid=10210oGNtJ41A0XO0anbLccK#rd)👍
+
 ##### 各种模块插件
 - [antd](https://ant.design/index-cn)(<span style="color: rgb(243,121,52);">蚂蚁金服开源react ui组件框架👍</span>)
 
