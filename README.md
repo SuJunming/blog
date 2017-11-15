@@ -39,6 +39,8 @@
 
 - [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
 
+- [React16尝鲜](https://juejin.im/post/59f271a35188255a6a0d47cb)👍
+
 ##### vue+
 
 - [vue官方](https://cn.vuejs.org/)👍
