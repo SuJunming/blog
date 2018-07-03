@@ -35,6 +35,8 @@
 
 - [一个收集 React 组件的网站（React component）](https://react.parts/native)👍
 
+- [正确掌握React 生命周期](https://zhuanlan.zhihu.com/p/24926575)👍
+
 - [一篇包含了react所有基本点的文章](https://segmentfault.com/a/1190000011205580)👍
 
 - [Immutable.js及在React中的应用](https://zhenhua-lee.github.io/react/Immutable.html)👍
