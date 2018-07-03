@@ -112,6 +112,8 @@
 
 - [vscode插件推荐](https://segmentfault.com/a/1190000006697219)👍
 
+- [代码校验](https://www.jianshu.com/p/072a96633479)(其实可以搭配更多，比如vscode的特性用保存机制来格式化代码格式，保持前端的统一规范,利用pre-commit来阻止不符合规范代码的提交,可以做成内部npm工具)
+
 ###### 开源协议(因为最近facebook闹腾，所以必须了解下咯)
 
 - [如何选择开源协议?](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)👍
