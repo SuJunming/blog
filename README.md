@@ -41,6 +41,12 @@
 
 - [React16尝鲜](https://juejin.im/post/59f271a35188255a6a0d47cb)👍
 
+- [React16.2](https://www.oschina.net/news/90999/react-16-2-0)👍
+
+- [React16.3](https://segmentfault.com/a/1190000013234058)👍
+
+- [React16.4](https://www.oschina.net/news/96415/react-16-4-0-released )👍
+
 ##### vue+
 
 - [vue官方](https://cn.vuejs.org/)👍
