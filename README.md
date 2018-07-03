@@ -61,7 +61,7 @@
 
 ##### node
 
-- [egg](http://eggjs.org/zh-cn/intro/)
+- [egg](http://eggjs.org/zh-cn/intro/)👍
 
 - [在Egg中使用GraphQL](https://zhuanlan.zhihu.com/p/30604868)👍
 
