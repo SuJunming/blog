@@ -134,11 +134,7 @@
 
 ##### 其他提高
 
-- [提升自己的见光度(如何更帅)](https://mp.weixin.qq.com/s/kgNQv7L9aoZd6r0U0oVjTQ)哈哈👍
-
-##### 前端清单
-
-- [前端34期]（https://segmentfault.com/a/1190000011481408👍
+- [提升自己的见光度(形象)](https://mp.weixin.qq.com/s/kgNQv7L9aoZd6r0U0oVjTQ)哈哈👍
 
 ### 结尾
 该个人博客会不定时更新，后续时间会添加更多的文档 
