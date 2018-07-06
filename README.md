@@ -67,6 +67,8 @@
 
 - [egg](http://eggjs.org/zh-cn/intro/)👍
 
+- [node简单爬虫](https://github.com/SuJunming/blog/blob/master/node%E7%88%AC%E8%99%AB.md)
+
 - [在Egg中使用GraphQL](https://zhuanlan.zhihu.com/p/30604868)👍
 
 ##### 构建工具
