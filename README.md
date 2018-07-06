@@ -51,6 +51,10 @@
 
 - [render Props](https://juejin.im/entry/5a151f4b518825296421555e)👍
 
+- [重新设计redux](https://hk.saowen.com/a/904ec76cd8897fc055a07d37b2cc37228a315575c14c8bfdedc727886b736292)👍
+
+- [改造redux](https://segmentfault.com/a/1190000015035012?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com&share_user=1030000000178452)👍
+
 ##### vue+
 
 - [vue官方](https://cn.vuejs.org/)👍
