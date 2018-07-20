@@ -1,4 +1,4 @@
-# 《使用 superagent 与 cheerio 完成简单爬虫》
+# 《使用 superagent 与 cheerio 完成简单爬虫》(配合egg存入数据库)
 
 ## 目标
 
